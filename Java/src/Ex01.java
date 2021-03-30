@@ -17,7 +17,7 @@ public class Ex01 {
 	@Before
 	public void before() {
 		solution = new Solution();
-	}
+	} 
 
 	@Test
 	public void test() {
