@@ -23,5 +23,6 @@ public class Ex01 {
 	        	return ("Odd");
 	        }
     }
+  
 }
 }
